@@ -1,0 +1,8 @@
+# requirements.txt
+pandas
+numpy
+plotly
+dash
+scikit-learn
+openpyxl
+gunicorn  # Recommended for production serving
