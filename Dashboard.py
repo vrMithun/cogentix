@@ -33,7 +33,7 @@ SEMANTIC_RED = '#dc3545'
 
 # NOTE: Update this path if your file location changes.
 # IMPORTANT: Replace this placeholder path with your actual Excel file path.
-DATA_PATH = r"\Cogentix_Case.xlsx"
+DATA_PATH = "../Cogentix_Case.xlsx"
 ASSETS_DIR = "assets"
 UNDERPAID_CSV = os.path.join(ASSETS_DIR, "underpaid_high_performers.csv")
 
