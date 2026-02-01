@@ -1,0 +1,538 @@
+EmployeeID,Name,ManagerID,Department,Role,Location,EngagementScore,low_engagement,PerformanceRating,YearsAtCompany,AnnualSalaryINR
+AF100001,Rohan Sharma,AF100120,HR,Senior Analyst,Mumbai,57.6,1,1,14.4,1404825
+AF100012,Sara Kapoor,AF100489,Finance,VP,UAE,73.6,0,3,17.51,24693487
+AF100042,Ishaan Chaudhary,AF100287,Marketing,Senior Analyst,Mumbai,77.0,0,3,13.54,1273567
+AF100055,Priya Dutta,AF100423,QA,Senior Analyst,UAE,80.2,0,4,10.41,1834085
+AF100061,Aditya Bose,AF100363,IT,Tech Lead,UAE,68.2,0,3,1.48,4741745
+AF100101,Priya Chaudhary,AF100434,Operations,Senior Consultant,UK,61.8,1,1,19.93,4054579
+AF100123,Sunil Dutta,AF100332,IT,Senior Analyst,Delhi,59.6,1,3,13.01,1151818
+AF100125,Ananya Iyer,AF100287,Sales,Engineer,Hyderabad,67.7,0,4,16.75,1977281
+AF100141,Sara Das,AF100140,Marketing,Senior Consultant,Bengaluru,82.7,0,1,8.45,2207723
+AF100162,Ritika Verma,AF100423,HR,Consultant,Hyderabad,86.0,0,3,12.48,1460267
+AF100171,Vikram Nair,AF100489,Marketing,Engineer,Hyderabad,52.0,1,5,10.21,1522320
+AF100172,Kabir Jain,AF100139,Delivery,Consultant,Singapore,85.7,0,3,1.49,2795703
+AF100268,Rahul Kapoor,AF100232,Sales,Consultant,Delhi,75.5,0,3,14.72,1640248
+AF100270,Kiran Mehta,AF100232,Consulting,Manager,Hyderabad,62.3,1,1,12.33,2946388
+AF100291,Rohan Verma,AF100103,Marketing,VP,Chennai,63.6,1,4,3.64,10228575
+AF100300,Vikram Khan,AF100203,Consulting,Senior Analyst,Kolkata,82.4,0,4,7.21,946519
+AF100332,Kabir Bose,AF100445,Delivery,Engineer,Singapore,63.2,1,4,9.65,1748545
+AF100346,Maya Jain,AF100103,QA,Director,UAE,78.0,0,2,17.56,15299349
+AF100383,Deepa Chaudhary,AF100390,Consulting,Manager,Kolkata,58.9,1,3,11.84,2848177
+AF100424,Ritika Dutta,AF100160,Consulting,Senior Analyst,Mumbai,51.0,1,3,8.03,935811
+AF100443,Rahul Reddy,AF100423,Finance,Analyst,Kolkata,85.4,0,4,7.36,521098
+AF100453,Aditya Kumar,AF100270,Finance,Senior Consultant,UK,55.2,1,3,18.24,3457240
+AF100471,Aditya Dutta,AF100363,R&D,Manager,Chennai,72.9,0,3,9.45,2745953
+AF100482,Aarav Dutta,AF100287,Delivery,Senior Manager,Pune,66.3,0,3,4.35,5875855
+AF100483,Aditya Sharma,AF100203,Finance,Senior Analyst,Mumbai,93.6,0,2,18.4,1054811
+AF100491,Sara Kapoor,AF100160,Consulting,Manager,UK,69.3,0,3,2.32,5730227
+AF100507,Ishaan Bose,AF100332,Marketing,Consultant,Delhi,62.8,1,2,10.38,1329311
+AF100509,Anil Chatterjee,AF100434,Operations,Senior Consultant,UAE,93.3,0,3,7.76,4616730
+AF100525,Neha Singh,AF100476,Finance,Senior Manager,Kolkata,63.3,1,2,0.1,3179445
+AF100544,Rahul Nair,AF100103,R&D,Senior Analyst,Mumbai,61.9,1,3,10.58,824930
+AF100600,Aarav Nair,AF100332,QA,Consultant,Delhi,72.1,0,4,13.01,1077726
+AF100673,Deepa Iyer,AF100203,QA,Engineer,Singapore,41.5,1,3,8.02,1524630
+AF100727,Ritika Khan,AF100120,Consulting,Consultant,UAE,57.3,1,4,2.83,2317571
+AF100751,Ananya Bose,AF100120,Consulting,Senior Consultant,UK,60.8,1,3,11.51,4620462
+AF100758,Neha Bose,AF100390,R&D,Consultant,Chennai,58.2,1,3,19.68,1532912
+AF100782,Rohan Khan,AF100434,R&D,Tech Lead,UK,83.1,0,2,5.99,6746418
+AF100800,Kiran Verma,AF100143,Finance,Engineer,Pune,60.3,1,3,16.85,1842528
+AF100859,Ishaan Gupta,AF100287,Marketing,Consultant,Chennai,68.7,0,2,11.82,1614100
+AF100873,Arjun Mehta,AF100103,Marketing,Engineer,Singapore,62.0,1,5,3.34,1647201
+AF100887,Neha Jain,AF100266,QA,Manager,Bengaluru,61.9,1,4,13.38,3644283
+AF100910,Deepa Reddy,AF100445,HR,Senior Manager,Delhi,73.9,0,5,4.44,6541262
+AF100931,Kabir Chaudhary,AF100423,IT,Senior Consultant,Chennai,91.4,0,3,14.43,2187123
+AF100941,Kabir Joshi,AF100103,Operations,Analyst,Chennai,55.8,1,4,14.3,613816
+AF100969,Maya Kumar,AF100139,Sales,Analyst,Pune,81.2,0,1,17.92,895925
+AF100977,Deepa Verma,AF100445,Delivery,Senior Analyst,UK,62.8,1,4,3.43,2316656
+AF100996,Sunil Reddy,AF100143,Finance,Engineer,Hyderabad,58.7,1,2,14.19,2061749
+AF101014,Deepa Sharma,AF100160,Marketing,Senior Consultant,Chennai,69.1,0,2,4.2,2283893
+AF101026,Rohan Verma,AF100476,IT,Senior Analyst,Delhi,46.7,1,3,9.91,1385170
+AF101029,Ananya Khan,AF100476,IT,Senior Consultant,UK,62.8,1,3,15.06,4788239
+AF101039,Ananya Singh,AF100423,IT,Manager,Delhi,58.9,1,4,10.56,3919214
+AF101089,Neha Khan,AF100484,Consulting,Senior Manager,Chennai,59.2,1,3,9.13,3595434
+AF101120,Maya Mehta,AF100139,R&D,Engineer,Pune,63.6,1,3,9.31,1211219
+AF101122,Sunil Dutta,AF100297,HR,Senior Manager,UK,57.0,1,5,11.08,7079538
+AF101126,Vikram Sharma,AF100266,Finance,Senior Manager,Delhi,78.6,0,2,7.08,4099420
+AF101139,Priya Jain,AF100073,Marketing,Tech Lead,Mumbai,60.1,1,4,9.4,5310421
+AF101145,Kabir Das,AF100160,IT,Engineer,Chennai,68.8,0,1,7.19,1007946
+AF101151,Rohan Bose,AF100489,IT,Consultant,UAE,59.2,1,3,3.43,3395543
+AF101152,Rohan Khan,AF100332,HR,Consultant,UK,82.4,0,4,3.22,2432878
+AF101179,Rahul Kapoor,AF100103,Delivery,Manager,Delhi,76.7,0,3,15.38,4050798
+AF101181,Ananya Joshi,AF100301,QA,Consultant,Hyderabad,56.9,1,5,0.73,1179284
+AF101186,Neha Chatterjee,AF100143,Finance,Senior Analyst,Hyderabad,84.4,0,3,3.65,791952
+AF101221,Neha Patel,AF100203,IT,Tech Lead,Mumbai,59.6,1,4,1.96,2806584
+AF101232,Priya Patel,AF100120,Operations,Analyst,Singapore,63.8,1,3,9.89,963899
+AF101233,Ananya Bose,AF100363,Marketing,Consultant,Delhi,78.2,0,3,10.43,1249784
+AF101240,Anil Dutta,AF100301,Delivery,Engineer,Singapore,81.6,0,3,3.82,2720045
+AF101244,Priya Nair,AF100203,R&D,Senior Manager,Singapore,70.1,0,3,13.23,6000741
+AF101264,Kabir Malhotra,AF100203,Sales,Engineer,UK,64.3,0,4,9.01,2788073
+AF101350,Ritika Sharma,AF100445,Delivery,Director,Hyderabad,66.1,0,5,2.2,12284430
+AF101379,Kabir Sharma,AF100140,Operations,Consultant,UAE,75.5,0,3,1.92,2004387
+AF101382,Rahul Nair,AF100301,HR,Senior Analyst,Hyderabad,75.1,0,3,9.3,1122299
+AF101388,Aarav Bose,AF100143,HR,Senior Manager,Delhi,84.5,0,3,19.45,5266195
+AF101399,Aditya Patel,AF100390,HR,Manager,Mumbai,75.8,0,3,1.35,3824773
+AF101408,Anil Mehta,AF100476,Consulting,Senior Manager,UAE,86.7,0,2,17.57,5595526
+AF101428,Ananya Reddy,AF100400,QA,Consultant,Bengaluru,100.0,0,2,12.36,1156549
+AF101432,Neha Jain,AF100400,Consulting,Analyst,Hyderabad,84.7,0,4,8.38,510861
+AF101447,Sara Kumar,AF100143,HR,Director,Delhi,77.6,0,3,3.23,7749014
+AF101459,Ishaan Kapoor,AF100120,Finance,Senior Consultant,Kolkata,75.2,0,4,5.25,1974525
+AF101475,Sunil Khan,AF100434,Sales,Consultant,UK,62.7,1,4,15.35,2787871
+AF101531,Sunil Chatterjee,AF100103,IT,Senior Analyst,Bengaluru,82.9,0,4,3.49,1055276
+AF101535,Neha Khan,AF100363,Marketing,Analyst,UK,60.4,1,1,7.93,1583791
+AF101547,Saanvi Malhotra,AF100287,Delivery,Engineer,UAE,58.5,1,2,1.29,3217040
+AF101552,Saanvi Patel,AF100297,Consulting,Senior Analyst,Delhi,57.8,1,2,4.88,798378
+AF101581,Anil Iyer,AF100445,QA,Senior Manager,Pune,76.5,0,3,11.73,6843005
+AF101582,Maya Joshi,AF100434,Sales,Director,Singapore,87.9,0,4,15.4,11064846
+AF101653,Aarav Verma,AF100143,HR,Manager,UAE,65.8,0,2,12.6,4156805
+AF101673,Arjun Singh,AF100390,R&D,Analyst,Bengaluru,59.2,1,2,10.3,848598
+AF101681,Ananya Patel,AF100143,Operations,Consultant,Chennai,75.8,0,2,6.23,1548319
+AF101691,Kiran Joshi,AF100400,Sales,Manager,Singapore,76.2,0,3,1.02,6642641
+AF101692,Ritika Bose,AF100073,Operations,Senior Manager,Chennai,77.3,0,5,6.65,4079076
+AF101739,Ananya Das,AF100232,Marketing,Senior Analyst,Hyderabad,77.2,0,3,17.24,1376356
+AF101788,Neha Jain,AF100489,Finance,Analyst,UK,74.2,0,3,12.13,1311253
+AF101838,Neha Mehta,AF100489,HR,VP,Mumbai,57.7,1,4,12.87,18421764
+AF101856,Sara Kumar,AF100139,Sales,VP,Delhi,68.6,0,3,9.38,18986828
+AF101869,Saanvi Sharma,AF100117,QA,Senior Analyst,UAE,57.4,1,3,7.14,2106616
+AF101929,Ishaan Khan,AF100476,Operations,Consultant,Pune,69.6,0,1,17.02,1154410
+AF101934,Sunil Sharma,AF100434,Marketing,Consultant,Bengaluru,72.2,0,5,19.61,1597479
+AF101943,Aarav Das,AF100203,Finance,Manager,UK,74.7,0,2,6.36,5062028
+AF101959,Vihaan Khan,AF100390,HR,Senior Analyst,Singapore,53.1,1,3,4.7,2184000
+AF101970,Rahul Sharma,AF100287,Finance,Senior Manager,Delhi,62.3,1,4,7.73,5613353
+AF101972,Kiran Chaudhary,AF100400,R&D,Senior Consultant,Hyderabad,52.0,1,4,19.68,2335714
+AF101987,Aarav Joshi,AF100489,Finance,Senior Consultant,Chennai,51.0,1,4,1.48,2256857
+AF102001,Priya Kumar,AF100232,Consulting,Senior Consultant,Chennai,47.9,1,3,1.01,3039497
+AF102003,Saanvi Verma,AF100143,HR,Manager,Kolkata,81.5,0,4,2.27,2060238
+AF102004,Aarav Reddy,AF100232,Finance,VP,UAE,62.0,1,3,5.91,23125433
+AF102038,Kabir Kumar,AF100140,Delivery,Senior Analyst,Mumbai,71.6,0,3,3.17,1246920
+AF102066,Kabir Bose,AF100489,Operations,Senior Analyst,Mumbai,48.9,1,3,19.5,1214887
+AF102071,Ritika Gupta,AF100301,Delivery,Senior Analyst,Singapore,51.8,1,2,16.25,1781408
+AF102087,Aditya Chaudhary,AF100232,Marketing,Tech Lead,Bengaluru,96.4,0,4,3.28,3436924
+AF102105,Sunil Chatterjee,AF100232,R&D,Senior Analyst,UAE,93.2,0,3,1.5,1859076
+AF102115,Vikram Malhotra,AF100160,HR,Senior Consultant,Hyderabad,73.6,0,3,3.97,2214790
+AF102146,Ishaan Kumar,AF100332,Consulting,Analyst,Pune,70.2,0,3,17.76,674089
+AF102168,Arjun Kapoor,AF100232,QA,Manager,Kolkata,70.7,0,3,13.16,3328858
+AF102171,Kiran Gupta,AF100423,HR,Senior Consultant,Kolkata,93.5,0,4,4.47,1952137
+AF102173,Neha Joshi,AF100160,QA,Analyst,Hyderabad,51.1,1,4,6.77,906462
+AF102193,Rohan Reddy,AF100400,Delivery,Manager,Pune,48.0,1,3,11.79,2276990
+AF102207,Vihaan Gupta,AF100434,Sales,Consultant,Delhi,46.3,1,3,13.08,1452865
+AF102255,Neha Chatterjee,AF100423,Operations,Senior Consultant,Pune,47.2,1,3,12.23,1826803
+AF102266,Saanvi Bose,AF100484,QA,Analyst,Mumbai,62.0,1,3,6.48,809683
+AF102267,Ananya Verma,AF100287,Delivery,Analyst,Kolkata,92.8,0,1,7.61,499395
+AF102306,Kabir Khan,AF100287,R&D,Manager,Bengaluru,59.1,1,2,2.82,2209289
+AF102324,Kabir Das,AF100073,R&D,Director,Singapore,50.2,1,3,12.99,12713574
+AF102326,Sunil Kumar,AF100232,QA,Senior Manager,Mumbai,70.9,0,2,12.33,5550393
+AF102329,Saanvi Mehta,AF100400,Sales,Senior Consultant,UAE,52.0,1,1,17.92,4106072
+AF102337,Priya Sharma,AF100400,Marketing,VP,Delhi,78.7,0,2,6.3,14061724
+AF102361,Neha Bose,AF100203,Sales,Engineer,Mumbai,100.0,0,1,9.73,1234517
+AF102363,Ritika Kumar,AF100301,IT,Senior Analyst,Singapore,63.3,1,5,4.54,1906429
+AF102368,Kiran Chatterjee,AF100390,Consulting,Analyst,UAE,56.3,1,3,12.06,933760
+AF102378,Vihaan Chaudhary,AF100484,R&D,Director,Chennai,62.7,1,2,9.08,11628342
+AF102416,Sara Mehta,AF100270,QA,Senior Manager,UAE,54.7,1,3,3.77,9326432
+AF102442,Vihaan Mehta,AF100111,Operations,Analyst,Pune,74.6,0,5,11.25,527975
+AF102454,Anil Singh,AF100489,QA,Senior Consultant,UK,75.9,0,3,14.17,3821178
+AF102464,Neha Malhotra,AF100140,Marketing,Senior Manager,Pune,75.4,0,3,16.06,6586423
+AF102466,Aditya Jain,AF100073,QA,Senior Consultant,Singapore,71.0,0,4,6.19,3755663
+AF102490,Ananya Iyer,AF100332,Operations,Senior Analyst,Bengaluru,59.9,1,2,8.69,935605
+AF102524,Neha Gupta,AF100297,Marketing,Consultant,UAE,61.9,1,3,8.96,2372725
+AF102546,Saanvi Reddy,AF100476,Consulting,VP,UK,94.6,0,4,6.36,23185160
+AF102555,Aditya Patel,AF100232,Consulting,Senior Consultant,Bengaluru,66.2,0,3,17.55,2655468
+AF102563,Priya Nair,AF100332,Operations,Analyst,UK,59.7,1,3,4.35,1173457
+AF102564,Saanvi Nair,AF100120,Delivery,Analyst,UK,81.0,0,4,10.89,1008079
+AF102607,Aarav Verma,AF100266,Finance,Engineer,Kolkata,95.0,0,3,0.95,1106846
+AF102613,Kiran Khan,AF100160,Operations,Senior Manager,Bengaluru,61.7,1,4,6.88,4959890
+AF102618,Vikram Malhotra,AF100423,Consulting,Consultant,Delhi,58.4,1,2,6.94,1743835
+AF102621,Ananya Mehta,AF100203,HR,Senior Consultant,Pune,71.6,0,2,18.83,1803577
+AF102640,Priya Iyer,AF100111,Sales,Senior Analyst,Singapore,72.9,0,2,14.02,1311979
+AF102656,Maya Verma,AF100139,Marketing,Senior Analyst,Singapore,99.9,0,3,19.91,2055229
+AF102693,Aarav Nair,AF100120,Operations,Analyst,Chennai,60.7,1,2,11.28,538534
+AF102733,Rohan Patel,AF100203,HR,Senior Consultant,Bengaluru,66.4,0,4,1.41,2054058
+AF102739,Aditya Chatterjee,AF100484,Marketing,Consultant,Hyderabad,69.1,0,3,15.67,1415886
+AF102744,Sunil Reddy,AF100160,Sales,Senior Analyst,Delhi,63.5,1,3,8.39,1400000
+AF102745,Ishaan Gupta,AF100297,Sales,Consultant,Delhi,71.0,0,4,6.19,1446380
+AF102760,Vihaan Patel,AF100073,QA,Senior Manager,Hyderabad,69.2,0,3,6.99,3539778
+AF102806,Ananya Chaudhary,AF100143,Delivery,VP,Singapore,53.8,1,4,7.48,46404590
+AF102809,Vikram Kumar,AF100287,Marketing,Engineer,Delhi,77.3,0,4,1.69,1282883
+AF102876,Aarav Jain,AF100390,Operations,Engineer,Singapore,93.6,0,3,19.53,2118548
+AF102884,Vihaan Nair,AF100140,Consulting,Manager,Pune,60.6,1,2,18.34,2400328
+AF102894,Maya Chaudhary,AF100363,Operations,Senior Analyst,Hyderabad,52.7,1,3,14.27,1073405
+AF102898,Aarav Das,AF100363,Finance,Consultant,UK,56.1,1,3,16.78,3164598
+AF102899,Sunil Jain,AF100117,HR,Senior Analyst,UK,49.3,1,4,5.59,2380203
+AF102907,Kabir Singh,AF100476,Marketing,Engineer,Mumbai,62.3,1,2,8.28,1246758
+AF102908,Aditya Chaudhary,AF100363,Marketing,Senior Analyst,UAE,80.6,0,3,7.07,2281073
+AF102938,Kabir Bose,AF100489,IT,Manager,Hyderabad,70.9,0,2,19.4,3355613
+AF102949,Deepa Nair,AF100232,Consulting,Engineer,Hyderabad,75.7,0,1,18.42,1544823
+AF102951,Anil Chaudhary,AF100103,Finance,Tech Lead,Bengaluru,72.0,0,4,19.96,5551240
+AF102955,Priya Gupta,AF100111,Consulting,Director,Singapore,94.1,0,5,6.08,12714416
+AF102960,Vikram Patel,AF100445,HR,Senior Manager,Chennai,42.8,1,4,3.92,4695008
+AF102985,Neha Das,AF100160,HR,Tech Lead,UK,96.0,0,3,13.29,6707567
+AF102996,Maya Nair,AF100476,Delivery,Manager,Pune,59.4,1,4,7.33,3043788
+AF103014,Neha Reddy,AF100139,Operations,Analyst,Chennai,54.1,1,1,3.86,660923
+AF103017,Anil Kapoor,AF100423,HR,Tech Lead,UK,84.4,0,3,9.43,8615950
+AF103034,Rahul Kumar,AF100111,HR,Manager,Pune,62.1,1,4,10.7,2987520
+AF103083,Aditya Joshi,AF100484,Marketing,Analyst,Mumbai,77.5,0,3,16.58,855784
+AF103091,Kabir Kapoor,AF100103,R&D,Analyst,Bengaluru,72.1,0,1,5.45,688078
+AF103141,Arjun Mehta,AF100489,Consulting,Analyst,Bengaluru,71.1,0,4,12.55,913714
+AF103149,Anil Chaudhary,AF100270,R&D,Analyst,Delhi,67.1,0,1,10.02,822584
+AF103163,Arjun Patel,AF100073,Consulting,Analyst,Delhi,89.4,0,3,4.69,756636
+AF103222,Sunil Chaudhary,AF100476,Finance,Consultant,Kolkata,79.3,0,4,2.03,1193567
+AF103227,Ritika Kapoor,AF100203,Delivery,Engineer,Hyderabad,61.1,1,5,6.42,1863888
+AF103247,Saanvi Iyer,AF100400,R&D,Senior Analyst,Bengaluru,60.5,1,2,6.39,1142607
+AF103249,Deepa Bose,AF100117,HR,Senior Manager,UAE,77.6,0,1,17.28,8569790
+AF103251,Arjun Bose,AF100434,Operations,Senior Analyst,UK,57.2,1,2,9.44,1810581
+AF103340,Rohan Kumar,AF100232,Finance,Senior Manager,Chennai,77.4,0,5,2.68,6117630
+AF103368,Aarav Singh,AF100287,QA,Senior Analyst,Chennai,59.1,1,2,18.1,1196820
+AF103374,Ananya Reddy,AF100266,Sales,Consultant,Hyderabad,61.9,1,4,6.88,1565114
+AF103382,Kabir Dutta,AF100297,Delivery,Manager,Kolkata,59.9,1,3,13.54,3630793
+AF103383,Sunil Gupta,AF100287,Sales,Engineer,Pune,87.5,0,4,18.88,982494
+AF103401,Kabir Iyer,AF100434,Consulting,Engineer,Hyderabad,77.3,0,3,17.36,1068590
+AF103425,Sunil Joshi,AF100400,Finance,Consultant,Kolkata,62.8,1,3,8.3,1372158
+AF103434,Rahul Das,AF100434,Consulting,Senior Consultant,Mumbai,73.6,0,3,7.05,2188451
+AF103446,Priya Jain,AF100140,Delivery,Consultant,Pune,82.1,0,3,5.88,1446749
+AF103451,Kiran Singh,AF100266,Marketing,Senior Manager,Mumbai,89.4,0,2,16.12,6601702
+AF103549,Priya Chatterjee,AF100143,Delivery,Consultant,Delhi,51.1,1,5,18.59,1568054
+AF103565,Rahul Malhotra,AF100423,QA,Consultant,Hyderabad,69.6,0,4,7.12,1481748
+AF103575,Priya Bose,AF100232,IT,Engineer,Singapore,54.4,1,3,0.55,1483273
+AF103576,Rohan Dutta,AF100143,HR,Analyst,Delhi,63.3,1,5,19.66,553638
+AF103599,Vihaan Chatterjee,AF100203,Consulting,Senior Consultant,Bengaluru,56.8,1,3,9.31,2462649
+AF103629,Ananya Jain,AF100139,QA,Senior Manager,Singapore,68.2,0,3,16.34,6998957
+AF103630,Ishaan Jain,AF100203,Delivery,VP,Hyderabad,57.7,1,3,18.08,22663304
+AF103646,Ishaan Kumar,AF100363,Delivery,Senior Analyst,Kolkata,67.4,0,3,13.69,769674
+AF103656,Vikram Verma,AF100270,IT,Senior Analyst,UK,50.0,1,3,0.24,1584341
+AF103669,Saanvi Mehta,AF100139,Consulting,Senior Consultant,Mumbai,70.1,0,2,12.57,2197665
+AF103677,Arjun Jain,AF100140,R&D,Senior Manager,UAE,54.1,1,4,6.22,9204990
+AF103701,Vikram Patel,AF100140,Sales,Senior Consultant,UK,88.2,0,5,16.35,4426397
+AF103732,Deepa Verma,AF100140,Finance,Engineer,Delhi,63.5,1,3,4.96,1259935
+AF103744,Deepa Chatterjee,AF100301,Delivery,Senior Consultant,Chennai,84.1,0,3,2.28,2195101
+AF103748,Ishaan Singh,AF100287,QA,Director,Bengaluru,60.2,1,2,12.17,10994246
+AF103754,Sunil Joshi,AF100103,Operations,Director,UAE,57.4,1,4,2.22,12936336
+AF103770,Aditya Iyer,AF100390,R&D,Manager,UK,44.5,1,3,10.75,5652724
+AF103783,Maya Mehta,AF100484,Finance,Senior Analyst,UAE,60.3,1,4,2.83,2167258
+AF103880,Anil Das,AF100139,R&D,Consultant,Delhi,89.8,0,3,1.39,1976156
+AF103883,Ritika Verma,AF100103,QA,Senior Consultant,Pune,61.2,1,3,12.1,2305864
+AF103942,Ananya Mehta,AF100203,QA,Engineer,Singapore,68.6,0,2,12.7,2148945
+AF103995,Rohan Sharma,AF100111,R&D,Senior Consultant,Singapore,54.3,1,3,17.99,4472930
+AF103999,Kabir Chatterjee,AF100232,IT,Senior Consultant,Hyderabad,63.7,1,4,5.55,1946061
+AF104081,Ishaan Singh,AF100297,IT,Consultant,Kolkata,77.7,0,5,10.42,1198636
+AF104085,Kiran Reddy,AF100332,Marketing,Senior Consultant,Singapore,89.3,0,3,18.92,3606253
+AF104094,Maya Gupta,AF100400,IT,Senior Manager,Bengaluru,47.0,1,4,11.48,6097591
+AF104107,Neha Singh,AF100434,Marketing,Engineer,Pune,79.5,0,3,2.0,1907443
+AF104155,Priya Mehta,AF100332,Sales,Manager,Mumbai,50.3,1,3,7.01,3528504
+AF104232,Aarav Jain,AF100103,Marketing,Senior Consultant,UK,73.7,0,3,5.5,3036201
+AF104276,Deepa Kapoor,AF100476,Finance,Senior Consultant,Pune,59.3,1,3,10.55,1549154
+AF104282,Ananya Dutta,AF100489,Delivery,Analyst,UAE,89.7,0,3,15.44,1221374
+AF104285,Kabir Gupta,AF100476,Operations,Engineer,Chennai,61.2,1,2,11.22,1009229
+AF104314,Priya Verma,AF100140,IT,Consultant,Mumbai,63.5,1,5,8.09,1504930
+AF104317,Sunil Nair,AF100139,QA,Senior Consultant,Chennai,62.4,1,3,4.28,2857601
+AF104321,Sunil Kumar,AF100484,Marketing,Analyst,Mumbai,51.1,1,4,16.94,518044
+AF104335,Sara Kumar,AF100484,Delivery,Consultant,UK,85.2,0,3,18.64,2235963
+AF104338,Arjun Gupta,AF100117,Delivery,Senior Analyst,Singapore,60.4,1,2,6.43,2007313
+AF104346,Arjun Chatterjee,AF100103,QA,Senior Analyst,Hyderabad,64.9,0,3,17.18,1388291
+AF104370,Neha Das,AF100117,QA,Analyst,Pune,66.0,0,5,10.98,911823
+AF104410,Ananya Malhotra,AF100390,IT,Senior Analyst,Hyderabad,93.0,0,3,2.25,875820
+AF104411,Sunil Chatterjee,AF100160,Operations,Senior Manager,Chennai,71.2,0,3,11.42,5247985
+AF104425,Sunil Gupta,AF100140,R&D,Manager,Delhi,100.0,0,3,15.13,3003589
+AF104433,Aarav Sharma,AF100363,HR,Consultant,Mumbai,62.1,1,3,5.21,1111722
+AF104449,Rahul Nair,AF100140,Sales,Director,Mumbai,81.7,0,5,8.07,13048850
+AF104460,Ishaan Kapoor,AF100476,Marketing,Consultant,UAE,100.0,0,3,1.4,2692367
+AF104466,Vihaan Sharma,AF100332,Delivery,Manager,Singapore,65.7,0,2,10.5,4838704
+AF104483,Saanvi Malhotra,AF100332,Consulting,Consultant,Pune,72.4,0,5,11.89,1771258
+AF104484,Aditya Jain,AF100434,Marketing,Manager,Pune,74.3,0,1,16.07,2958067
+AF104503,Ishaan Das,AF100390,HR,Engineer,UK,86.6,0,5,13.43,1463325
+AF104524,Sunil Das,AF100160,IT,Analyst,Delhi,51.4,1,5,11.35,784177
+AF104593,Sunil Verma,AF100160,Finance,Senior Analyst,Pune,63.9,1,3,1.56,1337350
+AF104610,Vihaan Bose,AF100140,Consulting,Analyst,Hyderabad,48.8,1,3,14.22,848953
+AF104623,Anil Joshi,AF100117,Sales,Director,UAE,49.0,1,4,10.1,10931287
+AF104657,Rohan Jain,AF100139,Marketing,Engineer,Mumbai,55.9,1,4,7.19,1760749
+AF104665,Rahul Kumar,AF100445,Sales,Senior Analyst,UK,59.0,1,2,14.07,2329060
+AF104666,Deepa Joshi,AF100140,Sales,Consultant,UAE,54.3,1,5,15.48,2613272
+AF104677,Maya Jain,AF100160,Operations,Manager,Pune,88.2,0,3,7.63,2449448
+AF104685,Saanvi Iyer,AF100390,IT,Manager,Mumbai,79.1,0,1,18.08,3522880
+AF104719,Rahul Singh,AF100363,HR,Senior Consultant,Kolkata,68.1,0,5,9.11,1811176
+AF104722,Neha Singh,AF100301,Marketing,Analyst,Singapore,76.8,0,3,16.24,647106
+AF104726,Kiran Reddy,AF100140,HR,Engineer,Chennai,79.5,0,3,14.39,1322732
+AF104743,Arjun Jain,AF100489,Consulting,Senior Consultant,Kolkata,56.8,1,2,11.52,2121980
+AF104768,Arjun Jain,AF100390,Sales,Consultant,Mumbai,100.0,0,4,10.24,1518537
+AF104782,Deepa Singh,AF100434,R&D,Analyst,Singapore,84.2,0,1,0.37,1080457
+AF104783,Kiran Kumar,AF100390,IT,Director,UAE,71.8,0,2,1.09,20851865
+AF104788,Anil Verma,AF100203,IT,Analyst,Singapore,58.6,1,1,16.46,1419710
+AF104807,Aditya Dutta,AF100111,HR,Manager,Kolkata,63.3,1,2,5.82,2143962
+AF104823,Ishaan Singh,AF100266,Operations,Manager,Mumbai,47.1,1,2,18.33,2308771
+AF104917,Deepa Bose,AF100073,Operations,Consultant,Mumbai,90.0,0,4,8.53,1808008
+AF104926,Priya Kumar,AF100143,HR,Manager,Hyderabad,83.5,0,4,15.38,2793195
+AF104958,Rohan Sharma,AF100297,R&D,Senior Consultant,Bengaluru,59.6,1,3,0.86,2426683
+AF105007,Neha Nair,AF100332,R&D,Director,Mumbai,84.2,0,5,6.91,7463532
+AF105017,Priya Sharma,AF100103,Marketing,Director,Kolkata,60.2,1,3,9.0,6679132
+AF105018,Rahul Patel,AF100297,Marketing,Manager,UAE,52.6,1,3,9.88,7119975
+AF105054,Vihaan Verma,AF100489,Consulting,Director,UAE,76.2,0,5,3.09,19857729
+AF105105,Ritika Kumar,AF100434,HR,Engineer,Bengaluru,62.7,1,1,12.66,1177397
+AF105112,Ananya Joshi,AF100476,HR,Consultant,Delhi,55.9,1,4,1.62,1506925
+AF105128,Ritika Chaudhary,AF100489,Marketing,Senior Analyst,Pune,56.8,1,4,0.15,1109485
+AF105147,Priya Singh,AF100073,Operations,Consultant,Delhi,54.7,1,4,17.35,1464106
+AF105174,Maya Kumar,AF100266,HR,Senior Manager,Hyderabad,61.6,1,2,19.73,5358165
+AF105194,Sara Chatterjee,AF100270,Finance,Engineer,Hyderabad,62.1,1,3,9.61,1566388
+AF105203,Ananya Verma,AF100423,Consulting,Senior Consultant,Kolkata,60.5,1,2,12.1,1493285
+AF105214,Sunil Jain,AF100232,HR,Engineer,UAE,81.0,0,3,19.67,2704033
+AF105234,Kabir Mehta,AF100287,IT,Manager,Pune,62.6,1,4,15.57,2878705
+AF105299,Vikram Dutta,AF100232,HR,Manager,Kolkata,57.1,1,1,3.56,2630473
+AF105318,Anil Khan,AF100297,Marketing,Analyst,UK,53.2,1,2,10.75,1086259
+AF105320,Sara Dutta,AF100434,Marketing,Engineer,Pune,71.9,0,3,5.82,1119651
+AF105328,Kabir Gupta,AF100363,QA,Tech Lead,Singapore,60.1,1,3,3.36,5219020
+AF105344,Vikram Dutta,AF100297,Consulting,Senior Consultant,UAE,63.2,1,3,15.57,4449332
+AF105352,Aarav Kapoor,AF100103,Operations,Senior Consultant,Kolkata,58.6,1,5,9.63,1999851
+AF105368,Ishaan Jain,AF100434,Sales,Engineer,Chennai,61.9,1,4,9.13,1290246
+AF105387,Arjun Bose,AF100232,Sales,Manager,UK,61.9,1,3,3.36,4024890
+AF105393,Kabir Chaudhary,AF100111,QA,Analyst,Bengaluru,60.9,1,3,3.49,756143
+AF105424,Ishaan Mehta,AF100363,R&D,Manager,Mumbai,61.2,1,4,16.68,2579702
+AF105440,Ananya Malhotra,AF100423,IT,Consultant,Kolkata,85.2,0,4,14.45,1545137
+AF105444,Arjun Mehta,AF100139,Delivery,Consultant,UK,88.4,0,1,11.62,2577515
+AF105476,Anil Sharma,AF100139,Consulting,Manager,Delhi,89.1,0,2,6.41,2925040
+AF105506,Aditya Bose,AF100390,Finance,Senior Analyst,Hyderabad,86.0,0,2,3.74,1185776
+AF105526,Saanvi Kapoor,AF100266,Consulting,Senior Manager,Hyderabad,75.0,0,3,13.28,3917201
+AF105535,Aditya Kapoor,AF100301,HR,Senior Manager,Hyderabad,38.8,1,4,7.82,7579282
+AF105557,Anil Singh,AF100160,Sales,Analyst,UAE,62.7,1,3,16.72,872010
+AF105561,Ritika Patel,AF100103,Operations,Senior Analyst,Hyderabad,71.1,0,4,14.5,1157639
+AF105580,Aditya Joshi,AF100297,Delivery,Engineer,Hyderabad,68.7,0,4,18.94,1976640
+AF105586,Rohan Patel,AF100103,Marketing,Senior Analyst,UAE,61.1,1,3,11.43,2104351
+AF105589,Maya Patel,AF100073,R&D,Senior Analyst,Pune,59.1,1,4,10.77,1143650
+AF105648,Arjun Jain,AF100117,Consulting,Manager,Singapore,70.8,0,4,0.99,5109712
+AF105651,Vihaan Gupta,AF100301,HR,Manager,Singapore,86.8,0,4,1.4,5259239
+AF105665,Ritika Mehta,AF100073,Operations,Senior Manager,UK,58.9,1,3,4.76,5891659
+AF105688,Rahul Chatterjee,AF100140,Operations,Consultant,Singapore,60.1,1,3,0.94,2110322
+AF105690,Vikram Sharma,AF100476,IT,Analyst,Singapore,63.3,1,5,4.43,1145144
+AF105700,Aditya Chatterjee,AF100332,Consulting,Manager,UAE,55.8,1,5,5.66,5844035
+AF105713,Deepa Dutta,AF100232,Sales,Senior Manager,Delhi,77.1,0,3,0.88,4060118
+AF105714,Aarav Gupta,AF100111,Finance,Director,Delhi,48.7,1,3,1.36,13433101
+AF105737,Rohan Gupta,AF100073,IT,Analyst,Mumbai,74.0,0,3,19.72,811122
+AF105752,Rohan Bose,AF100489,Delivery,Senior Analyst,UK,79.2,0,4,9.45,1649268
+AF105759,Kiran Patel,AF100423,IT,Consultant,UAE,60.2,1,5,16.84,2582864
+AF105765,Priya Nair,AF100489,IT,Senior Analyst,Mumbai,92.8,0,5,8.8,976221
+AF105795,Ritika Joshi,AF100139,QA,Senior Consultant,Delhi,51.3,1,1,17.04,1730521
+AF105806,Rahul Singh,AF100120,Delivery,Engineer,Pune,78.3,0,3,9.56,1570286
+AF105814,Ananya Jain,AF100111,Marketing,Engineer,UK,72.2,0,3,4.58,2378237
+AF105819,Ritika Iyer,AF100232,Finance,Engineer,Kolkata,55.7,1,3,2.73,1275329
+AF105826,Anil Chaudhary,AF100140,Operations,Manager,Pune,65.5,0,4,16.59,3167583
+AF105827,Aditya Bose,AF100434,Marketing,Senior Manager,Mumbai,76.2,0,4,16.96,3671593
+AF105832,Aditya Mehta,AF100434,Consulting,Engineer,UAE,41.5,1,5,8.81,3348594
+AF105833,Aarav Jain,AF100117,R&D,Manager,UK,81.6,0,3,4.66,5188873
+AF105842,Vihaan Dutta,AF100120,Consulting,Senior Consultant,Delhi,72.6,0,3,13.65,2796862
+AF105899,Anil Singh,AF100117,Sales,Consultant,Pune,85.9,0,3,16.86,1486225
+AF105906,Ishaan Mehta,AF100287,Sales,Engineer,UAE,68.8,0,3,11.69,2939126
+AF105908,Rohan Bose,AF100434,Sales,Senior Analyst,Singapore,72.6,0,4,14.61,1807868
+AF105915,Kabir Mehta,AF100363,Consulting,Consultant,UK,80.3,0,3,19.89,2527131
+AF105934,Kabir Bose,AF100232,QA,Senior Consultant,Hyderabad,80.6,0,2,17.58,1952722
+AF105952,Aditya Singh,AF100140,Operations,Consultant,Mumbai,72.1,0,3,7.17,1461325
+AF105956,Anil Singh,AF100139,QA,Consultant,UAE,57.6,1,3,19.88,1797010
+AF105966,Anil Malhotra,AF100390,Operations,Consultant,Kolkata,69.8,0,3,14.67,1015587
+AF106001,Maya Jain,AF100103,IT,Manager,Delhi,63.1,1,3,8.29,3194792
+AF106002,Arjun Malhotra,AF100139,Finance,Senior Analyst,UAE,61.8,1,3,0.84,1475511
+AF106030,Sunil Sharma,AF100117,IT,Senior Manager,UK,74.8,0,3,1.45,11908681
+AF106075,Rohan Iyer,AF100297,Operations,Senior Analyst,Kolkata,73.5,0,3,10.85,1093263
+AF106093,Ritika Kumar,AF100489,Sales,Consultant,Pune,76.5,0,3,8.61,1054155
+AF106121,Sunil Nair,AF100434,Delivery,Consultant,Delhi,92.3,0,3,7.5,1224579
+AF106155,Aditya Patel,AF100332,Delivery,Engineer,Mumbai,34.7,1,5,17.79,2019187
+AF106197,Vihaan Das,AF100139,R&D,Consultant,UAE,56.3,1,2,2.35,1585111
+AF106208,Ritika Khan,AF100301,Delivery,Director,Mumbai,69.8,0,3,17.81,11492639
+AF106230,Kiran Kumar,AF100140,IT,Engineer,Bengaluru,93.0,0,2,1.05,1122113
+AF106247,Aarav Singh,AF100103,R&D,Senior Analyst,Chennai,61.2,1,4,1.05,1081905
+AF106261,Arjun Chatterjee,AF100287,Marketing,Analyst,Singapore,61.2,1,5,6.3,1071050
+AF106292,Rahul Chatterjee,AF100139,Operations,Consultant,Mumbai,66.4,0,3,3.33,1465547
+AF106303,Vikram Chatterjee,AF100103,Operations,Senior Consultant,Mumbai,85.3,0,3,3.7,2623596
+AF106327,Ritika Chatterjee,AF100445,Sales,Senior Consultant,UK,45.2,1,4,11.48,5026122
+AF106334,Kiran Jain,AF100117,Finance,Senior Analyst,Pune,65.1,0,2,2.76,1261768
+AF106352,Aditya Kapoor,AF100489,Consulting,Manager,Chennai,76.5,0,1,19.58,2301476
+AF106373,Aarav Iyer,AF100140,Finance,Senior Consultant,Delhi,61.3,1,3,11.58,3036604
+AF106380,Kiran Sharma,AF100120,IT,Consultant,Chennai,92.5,0,4,1.05,1271518
+AF106385,Ishaan Bose,AF100140,Finance,Senior Analyst,UAE,62.2,1,3,10.15,1901321
+AF106391,Maya Jain,AF100073,IT,Analyst,UAE,75.0,0,3,8.07,1351648
+AF106425,Ritika Chatterjee,AF100434,HR,Senior Consultant,Hyderabad,63.1,1,3,10.69,1586944
+AF106437,Anil Malhotra,AF100270,Operations,Senior Consultant,Pune,72.1,0,4,18.47,1846676
+AF106446,Rohan Sharma,AF100423,Operations,Engineer,UAE,57.4,1,4,1.82,2514059
+AF106450,Rohan Das,AF100489,Operations,Senior Consultant,Hyderabad,91.0,0,4,2.38,2772232
+AF106511,Deepa Malhotra,AF100143,HR,Tech Lead,Pune,50.9,1,1,19.09,2856293
+AF106514,Aarav Malhotra,AF100434,HR,Engineer,UAE,77.3,0,4,12.95,3592524
+AF106527,Arjun Chaudhary,AF100160,HR,Manager,Hyderabad,74.9,0,4,18.01,3292002
+AF106572,Deepa Bose,AF100120,QA,Manager,Pune,66.2,0,3,19.28,3333330
+AF106609,Ritika Malhotra,AF100160,Delivery,Consultant,Delhi,60.1,1,4,16.82,1247047
+AF106628,Kiran Bose,AF100117,Operations,Consultant,Kolkata,65.1,0,3,8.96,1435319
+AF106640,Rohan Chaudhary,AF100297,HR,Director,Kolkata,70.0,0,5,5.88,9485273
+AF106650,Rohan Sharma,AF100117,Consulting,Engineer,Mumbai,49.5,1,1,7.09,1887349
+AF106683,Priya Dutta,AF100287,R&D,Tech Lead,Delhi,72.3,0,3,16.34,3300000
+AF106694,Priya Kumar,AF100103,R&D,Senior Consultant,UAE,96.9,0,4,12.33,2784349
+AF106743,Aarav Verma,AF100073,Operations,Manager,Hyderabad,50.1,1,2,19.66,2386190
+AF106748,Deepa Mehta,AF100120,Sales,Senior Analyst,Delhi,54.4,1,3,1.35,1038031
+AF106764,Arjun Joshi,AF100270,Finance,Senior Analyst,Hyderabad,60.8,1,3,8.84,1096282
+AF106770,Ananya Malhotra,AF100400,IT,Analyst,UK,65.5,0,4,12.94,1208273
+AF106786,Arjun Kapoor,AF100160,Delivery,Manager,Chennai,56.8,1,3,19.08,2732754
+AF106819,Anil Dutta,AF100203,QA,Senior Consultant,Bengaluru,67.5,0,3,2.04,2619186
+AF106850,Ishaan Das,AF100332,Marketing,Senior Manager,Hyderabad,82.7,0,3,9.92,5351453
+AF106872,Ishaan Patel,AF100476,Consulting,Tech Lead,Singapore,71.6,0,3,0.94,7844026
+AF106882,Anil Dutta,AF100423,HR,Tech Lead,Chennai,93.6,0,3,17.58,4704802
+AF106890,Rahul Dutta,AF100476,Delivery,Consultant,Pune,60.0,1,2,19.51,1450056
+AF106898,Vihaan Kapoor,AF100111,QA,Director,Bengaluru,58.3,1,3,2.21,12015288
+AF106933,Ishaan Reddy,AF100203,Consulting,Consultant,UK,49.9,1,3,7.4,2369713
+AF106944,Aditya Singh,AF100139,R&D,Senior Analyst,Chennai,61.0,1,3,4.51,779320
+AF106951,Ishaan Dutta,AF100140,QA,Manager,Delhi,47.6,1,4,8.35,3406890
+AF106954,Aarav Gupta,AF100332,Sales,Senior Analyst,Bengaluru,95.0,0,4,4.81,1014230
+AF106997,Neha Gupta,AF100232,HR,Consultant,Chennai,86.1,0,4,2.82,1549066
+AF107001,Ananya Nair,AF100139,Operations,Consultant,Mumbai,83.8,0,5,6.82,1167565
+AF107009,Arjun Singh,AF100073,IT,Senior Consultant,Mumbai,67.0,0,3,6.68,1933823
+AF107035,Rahul Reddy,AF100445,QA,Consultant,Bengaluru,76.3,0,1,9.28,1538530
+AF107036,Ishaan Khan,AF100139,Operations,Analyst,Hyderabad,59.6,1,3,9.36,589234
+AF107056,Vihaan Reddy,AF100266,Consulting,Analyst,Pune,73.6,0,1,7.28,687015
+AF107072,Ishaan Nair,AF100400,IT,Analyst,Delhi,61.3,1,3,15.35,939758
+AF107080,Saanvi Joshi,AF100266,Finance,Senior Manager,UK,81.6,0,2,5.2,9592330
+AF107098,Ishaan Malhotra,AF100489,Delivery,Engineer,UK,51.0,1,3,2.95,2562268
+AF107099,Ananya Kumar,AF100363,Delivery,Analyst,Singapore,83.8,0,5,4.98,982606
+AF107164,Anil Kapoor,AF100143,Consulting,Engineer,Singapore,53.1,1,2,11.24,2579058
+AF107208,Aditya Iyer,AF100117,HR,Consultant,Hyderabad,82.8,0,3,12.96,1317564
+AF107242,Ishaan Nair,AF100445,Marketing,Manager,Kolkata,74.5,0,4,14.21,2921859
+AF107254,Anil Khan,AF100489,Consulting,VP,Hyderabad,78.2,0,2,13.66,22118382
+AF107261,Arjun Sharma,AF100103,Marketing,Engineer,Chennai,80.7,0,4,3.22,1687276
+AF107268,Kabir Dutta,AF100270,Finance,Engineer,Bengaluru,90.8,0,4,3.73,1473288
+AF107331,Sara Das,AF100390,IT,Senior Consultant,UAE,50.1,1,3,8.22,3631539
+AF107336,Rahul Kapoor,AF100143,Consulting,Manager,Singapore,47.9,1,3,16.27,5992666
+AF107377,Kiran Bose,AF100103,QA,Senior Analyst,UAE,59.9,1,4,1.69,1481535
+AF107381,Rahul Khan,AF100270,Sales,Senior Manager,Hyderabad,77.9,0,4,0.36,3897010
+AF107392,Ananya Iyer,AF100287,Operations,Senior Consultant,Hyderabad,54.0,1,3,13.06,2155322
+AF107426,Ritika Jain,AF100484,HR,Senior Analyst,UK,91.0,0,3,17.64,1771376
+AF107447,Neha Bose,AF100270,Sales,Engineer,Hyderabad,61.1,1,3,17.62,1296611
+AF107474,Neha Malhotra,AF100073,Marketing,Engineer,Delhi,69.8,0,3,13.33,845860
+AF107548,Deepa Mehta,AF100111,HR,Manager,Kolkata,70.6,0,2,14.61,3193336
+AF107567,Vihaan Gupta,AF100140,Finance,Manager,Kolkata,100.0,0,4,15.06,2440399
+AF107580,Vikram Singh,AF100232,Finance,Senior Analyst,Hyderabad,60.9,1,3,12.27,1372144
+AF107590,Saanvi Dutta,AF100301,Finance,Manager,UK,63.7,1,5,12.02,4721259
+AF107603,Anil Nair,AF100287,Consulting,Consultant,Delhi,83.9,0,1,0.45,1924806
+AF107606,Sara Jain,AF100301,Delivery,Consultant,UK,51.5,1,5,4.07,2883655
+AF107614,Deepa Reddy,AF100484,Sales,Analyst,UAE,53.6,1,1,12.63,1047138
+AF107621,Saanvi Verma,AF100400,Operations,Senior Consultant,Pune,73.7,0,3,3.56,2914715
+AF107651,Arjun Chaudhary,AF100266,Finance,Senior Manager,Singapore,63.6,1,3,3.51,10856924
+AF107675,Vihaan Iyer,AF100140,Marketing,Manager,Bengaluru,62.4,1,3,6.27,2547966
+AF107720,Rohan Khan,AF100232,QA,Senior Manager,Delhi,70.2,0,3,18.53,3283601
+AF107736,Anil Chatterjee,AF100073,Operations,Consultant,Kolkata,96.8,0,4,10.13,1139839
+AF107744,Deepa Chatterjee,AF100270,Consulting,Senior Manager,Kolkata,79.8,0,3,8.84,4351828
+AF107754,Ananya Verma,AF100103,HR,Senior Consultant,Bengaluru,83.8,0,3,6.14,2354723
+AF107770,Saanvi Mehta,AF100232,IT,Senior Analyst,Delhi,68.7,0,3,16.56,1082224
+AF107799,Vikram Kapoor,AF100270,Finance,Tech Lead,Pune,44.7,1,2,8.7,4768460
+AF107800,Ishaan Dutta,AF100400,HR,Analyst,Delhi,78.7,0,3,16.68,639943
+AF107813,Sunil Joshi,AF100400,Sales,Senior Consultant,Pune,73.5,0,4,4.35,1410427
+AF107826,Kabir Nair,AF100489,Delivery,Consultant,Pune,48.0,1,3,6.57,1138725
+AF107838,Ritika Khan,AF100203,Operations,Engineer,Delhi,56.9,1,3,0.6,1082004
+AF107840,Priya Iyer,AF100363,HR,Engineer,UAE,54.6,1,3,2.44,3225348
+AF107850,Anil Malhotra,AF100287,Operations,Consultant,Singapore,74.1,0,3,9.85,2054165
+AF107852,Ananya Chaudhary,AF100073,Delivery,Tech Lead,UAE,56.1,1,5,13.28,5612039
+AF107877,Saanvi Jain,AF100484,Delivery,Analyst,Hyderabad,68.0,0,3,9.79,844381
+AF107889,Neha Iyer,AF100400,IT,Engineer,Kolkata,78.6,0,4,2.59,1441716
+AF107915,Anil Iyer,AF100476,R&D,Senior Consultant,Hyderabad,88.8,0,5,9.37,2314423
+AF107955,Sara Jain,AF100140,IT,Consultant,UAE,69.7,0,4,13.16,2381183
+AF107971,Vihaan Joshi,AF100476,Consulting,Consultant,Mumbai,60.7,1,3,15.76,1724342
+AF107987,Aditya Sharma,AF100301,Finance,Tech Lead,Delhi,57.2,1,3,6.52,5655125
+AF107993,Rahul Dutta,AF100476,Delivery,Senior Consultant,Kolkata,53.6,1,2,17.56,1844324
+AF108047,Ishaan Jain,AF100120,Consulting,Senior Manager,UK,62.5,1,5,12.42,5853192
+AF108053,Kiran Dutta,AF100484,Finance,Analyst,Delhi,62.4,1,2,18.53,431432
+AF108055,Sara Dutta,AF100120,Sales,Consultant,Bengaluru,65.5,0,3,14.68,1253316
+AF108066,Arjun Malhotra,AF100120,Sales,Engineer,UAE,30.8,1,1,1.04,1782844
+AF108147,Arjun Joshi,AF100140,Finance,Senior Manager,Hyderabad,76.3,0,4,16.45,6327221
+AF108171,Rohan Gupta,AF100203,IT,Analyst,Pune,64.3,0,4,16.6,800027
+AF108181,Deepa Singh,AF100363,QA,Consultant,UK,85.1,0,4,5.43,2739598
+AF108197,Deepa Iyer,AF100363,Operations,Senior Analyst,Delhi,58.7,1,4,3.13,1460866
+AF108203,Deepa Jain,AF100103,Finance,Director,Kolkata,77.4,0,4,19.94,8965704
+AF108211,Rahul Patel,AF100363,Marketing,Senior Consultant,Singapore,79.8,0,5,5.73,2577481
+AF108238,Saanvi Jain,AF100445,Delivery,Consultant,Hyderabad,62.4,1,3,1.8,1559537
+AF108243,Anil Kapoor,AF100434,IT,Director,Hyderabad,62.9,1,3,16.5,8744429
+AF108252,Priya Bose,AF100423,Finance,Tech Lead,Hyderabad,57.7,1,3,15.58,3011679
+AF108274,Arjun Jain,AF100301,IT,Engineer,UAE,69.6,0,3,6.11,2747861
+AF108284,Kiran Iyer,AF100073,Finance,Director,UK,86.5,0,2,18.32,13758800
+AF108290,Maya Chatterjee,AF100423,Finance,Tech Lead,UK,81.3,0,4,9.88,10249022
+AF108303,Saanvi Nair,AF100400,R&D,Senior Consultant,Chennai,56.5,1,5,17.8,1894536
+AF108333,Arjun Mehta,AF100445,Delivery,Senior Consultant,Delhi,49.2,1,4,4.47,1939353
+AF108354,Priya Sharma,AF100445,QA,Senior Consultant,Singapore,100.0,0,3,4.37,3455429
+AF108400,Kiran Khan,AF100287,Marketing,Analyst,UK,76.0,0,2,1.86,1479451
+AF108405,Neha Reddy,AF100160,Marketing,Senior Analyst,Singapore,60.1,1,3,0.19,1582621
+AF108411,Neha Dutta,AF100103,Consulting,Tech Lead,Singapore,51.1,1,4,7.14,8043465
+AF108419,Neha Reddy,AF100423,Sales,Tech Lead,Singapore,57.9,1,4,10.7,8068794
+AF108433,Vihaan Sharma,AF100120,QA,Manager,Pune,61.9,1,3,2.07,3034060
+AF108450,Rohan Jain,AF100232,Sales,Senior Manager,Delhi,57.4,1,3,18.23,3498037
+AF108454,Deepa Singh,AF100423,HR,Senior Consultant,Chennai,64.4,0,3,6.56,2707787
+AF108459,Vihaan Patel,AF100423,Operations,Consultant,Bengaluru,59.7,1,2,10.99,1658797
+AF108497,Ishaan Bose,AF100484,Marketing,Consultant,Delhi,67.2,0,3,15.47,1367528
+AF108540,Kabir Gupta,AF100476,Operations,Consultant,Chennai,62.3,1,3,1.52,1749857
+AF108550,Vikram Dutta,AF100103,Marketing,Engineer,Delhi,87.8,0,3,8.85,1560950
+AF108555,Sunil Patel,AF100287,IT,Senior Analyst,Kolkata,63.8,1,3,17.67,1136775
+AF108573,Priya Chatterjee,AF100484,Sales,Senior Consultant,Delhi,77.6,0,3,18.25,2800561
+AF108594,Sara Kapoor,AF100476,Delivery,Manager,Chennai,74.8,0,1,19.47,3337004
+AF108646,Priya Kapoor,AF100301,Finance,Engineer,Kolkata,66.6,0,1,4.8,1113215
+AF108671,Saanvi Mehta,AF100203,Marketing,Senior Consultant,Kolkata,54.6,1,3,0.55,2387867
+AF108707,Deepa Chaudhary,AF100139,Sales,Senior Analyst,UAE,100.0,0,4,0.65,1817445
+AF108719,Maya Chatterjee,AF100266,Operations,Senior Analyst,Mumbai,60.6,1,3,7.25,1296772
+AF108730,Kiran Chaudhary,AF100143,Consulting,Analyst,Delhi,55.7,1,5,1.62,661666
+AF108743,Deepa Kumar,AF100445,R&D,Consultant,Singapore,76.0,0,2,9.86,3312794
+AF108748,Sara Iyer,AF100203,IT,Engineer,Kolkata,75.4,0,3,16.71,1839525
+AF108755,Priya Chaudhary,AF100117,Consulting,Manager,Mumbai,85.7,0,4,19.55,2862584
+AF108763,Sunil Sharma,AF100232,IT,Consultant,Mumbai,76.8,0,5,19.22,1517638
+AF108769,Ananya Patel,AF100301,IT,VP,UAE,80.6,0,5,9.18,30228324
+AF108777,Ishaan Chatterjee,AF100423,Sales,Consultant,Hyderabad,54.4,1,5,9.47,1564694
+AF108799,Rohan Chatterjee,AF100203,HR,Senior Manager,Singapore,74.4,0,3,2.72,8264332
+AF108813,Sara Chatterjee,AF100117,Operations,Senior Consultant,Pune,62.9,1,3,8.54,2190413
+AF108825,Rohan Verma,AF100073,Operations,Senior Analyst,Singapore,61.7,1,4,19.39,1385824
+AF108833,Rahul Chatterjee,AF100266,Sales,Senior Analyst,UAE,83.7,0,5,17.0,1716179
+AF108837,Ananya Verma,AF100103,Consulting,Senior Manager,Hyderabad,84.0,0,3,2.87,5111944
+AF108850,Ritika Kapoor,AF100117,Finance,Consultant,Hyderabad,78.7,0,4,3.75,1320396
+AF108877,Deepa Khan,AF100203,Consulting,Consultant,Pune,77.3,0,4,4.26,1537422
+AF108881,Anil Reddy,AF100400,Marketing,Senior Analyst,Hyderabad,79.7,0,2,14.51,796294
+AF108911,Saanvi Malhotra,AF100160,Operations,Consultant,Pune,81.7,0,3,18.78,1422096
+AF108917,Anil Chatterjee,AF100434,Delivery,Senior Analyst,Kolkata,74.4,0,4,5.49,863435
+AF108918,Neha Reddy,AF100390,HR,Senior Consultant,Bengaluru,79.3,0,4,4.59,2627220
+AF108952,Ritika Joshi,AF100160,HR,Director,Hyderabad,74.3,0,1,15.44,7617892
+AF108961,Ananya Nair,AF100120,QA,Analyst,UAE,60.7,1,3,9.06,1253100
+AF108971,Sara Das,AF100434,Delivery,Senior Consultant,Delhi,62.8,1,3,9.42,1567866
+AF109002,Neha Verma,AF100301,R&D,Senior Consultant,Kolkata,77.5,0,3,14.02,2086030
+AF109003,Priya Malhotra,AF100140,IT,Consultant,Chennai,62.7,1,5,12.75,1385337
+AF109017,Kiran Dutta,AF100143,Operations,Senior Analyst,Pune,85.9,0,3,9.8,1446516
+AF109035,Sara Gupta,AF100332,HR,Consultant,Mumbai,36.5,1,3,0.54,1699844
+AF109057,Maya Bose,AF100111,R&D,Senior Analyst,Pune,61.9,1,2,1.6,1155294
+AF109079,Aditya Joshi,AF100140,R&D,Engineer,Pune,83.8,0,3,12.52,1965387
+AF109080,Vikram Reddy,AF100270,R&D,Senior Analyst,Mumbai,79.4,0,3,18.33,1048896
+AF109096,Kiran Jain,AF100266,Consulting,Senior Analyst,Chennai,62.8,1,4,9.88,871145
+AF109113,Vikram Iyer,AF100120,Finance,Senior Analyst,UK,71.3,0,4,8.94,1748131
+AF109153,Neha Bose,AF100117,Delivery,Manager,Hyderabad,57.5,1,3,16.96,2685342
+AF109248,Ishaan Patel,AF100103,Consulting,Manager,Delhi,75.2,0,4,3.8,2301670
+AF109266,Aditya Gupta,AF100160,Consulting,Engineer,Chennai,62.4,1,3,11.49,1133431
+AF109270,Aditya Sharma,AF100297,Consulting,Senior Consultant,Pune,71.6,0,3,12.7,2244321
+AF109276,Vihaan Kumar,AF100203,R&D,Senior Manager,Mumbai,51.8,1,4,6.39,5215249
+AF109299,Deepa Iyer,AF100400,HR,Senior Manager,Bengaluru,74.7,0,3,17.23,6801779
+AF109340,Kiran Iyer,AF100139,QA,Senior Manager,UAE,76.5,0,4,11.61,10145075
+AF109345,Deepa Verma,AF100140,Operations,Consultant,Mumbai,67.0,0,3,6.73,1639788
+AF109352,Priya Mehta,AF100117,IT,Senior Consultant,Mumbai,61.6,1,3,11.54,1993580
+AF109354,Vihaan Singh,AF100117,Marketing,Manager,Hyderabad,53.0,1,3,6.7,2308995
+AF109365,Vikram Joshi,AF100390,IT,Director,Bengaluru,63.2,1,3,11.18,11661187
+AF109385,Vikram Verma,AF100160,Consulting,Senior Analyst,Kolkata,85.2,0,4,15.58,1212316
+AF109428,Kabir Jain,AF100297,QA,Senior Consultant,Kolkata,66.9,0,2,7.54,2627268
+AF109464,Vihaan Gupta,AF100120,Operations,Analyst,UK,66.6,0,4,17.15,1362152
+AF109490,Rohan Chaudhary,AF100111,Operations,Senior Manager,Kolkata,63.5,1,3,6.11,4587969
+AF109531,Aditya Chaudhary,AF100160,Sales,Senior Consultant,Bengaluru,74.9,0,3,18.06,1732811
+AF109547,Saanvi Verma,AF100423,IT,Senior Manager,Kolkata,66.2,0,4,6.61,4823291
+AF109558,Ishaan Gupta,AF100266,Delivery,Consultant,Delhi,84.3,0,3,5.07,1637542
+AF109651,Kiran Singh,AF100232,R&D,Consultant,Pune,52.7,1,3,5.68,1449904
+AF109677,Kiran Sharma,AF100476,Finance,Tech Lead,Chennai,50.0,1,2,16.04,2629125
+AF109689,Kabir Dutta,AF100139,IT,Consultant,Pune,82.2,0,4,9.41,1065879
+AF109694,Vikram Nair,AF100423,Consulting,Senior Consultant,UK,80.6,0,5,12.08,4857663
+AF109699,Arjun Sharma,AF100073,Marketing,Consultant,UAE,62.8,1,3,4.55,1970181
+AF109703,Kabir Chatterjee,AF100423,QA,Consultant,UK,69.4,0,1,17.96,1838814
+AF109706,Ishaan Iyer,AF100445,R&D,Manager,Pune,84.9,0,2,1.88,2971605
+AF109707,Vikram Dutta,AF100287,Marketing,Manager,Mumbai,62.9,1,2,13.81,3352298
+AF109721,Vihaan Malhotra,AF100111,Delivery,Senior Manager,Singapore,68.0,0,4,19.64,6272290
+AF109732,Kabir Kumar,AF100073,QA,Engineer,Kolkata,87.7,0,3,2.73,921705
+AF109734,Aditya Sharma,AF100111,HR,Engineer,Singapore,80.8,0,4,4.84,2872238
+AF109760,Ishaan Patel,AF100332,Marketing,VP,Chennai,84.2,0,2,4.4,24420468
+AF109805,Ishaan Verma,AF100423,Marketing,Senior Consultant,Mumbai,37.1,1,3,3.13,2426087
+AF109824,Saanvi Singh,AF100073,R&D,Senior Consultant,Pune,76.0,0,3,15.81,1648049
+AF109829,Aditya Das,AF100297,IT,Senior Analyst,Chennai,61.7,1,4,10.33,1228164
+AF109831,Priya Malhotra,AF100297,Operations,Consultant,UK,57.7,1,2,15.41,2618523
+AF109854,Vikram Nair,AF100297,QA,Manager,Kolkata,73.3,0,1,13.44,2568809
+AF109859,Kiran Bose,AF100332,QA,Senior Analyst,Chennai,71.6,0,2,9.46,1157192
+AF109861,Neha Patel,AF100120,R&D,Analyst,Mumbai,60.7,1,3,8.55,944822
+AF109896,Neha Kapoor,AF100489,Delivery,Senior Consultant,Delhi,58.7,1,4,19.7,2863762
+AF109897,Aarav Sharma,AF100111,QA,Senior Consultant,Chennai,58.4,1,3,11.72,1855394
+AF109924,Vihaan Singh,AF100232,Operations,Engineer,Mumbai,62.9,1,4,4.34,1713993
+AF109939,Vihaan Nair,AF100120,Marketing,Consultant,Hyderabad,85.3,0,4,15.56,1076194
+AF109978,Aarav Kapoor,AF100301,Sales,Senior Manager,Kolkata,47.0,1,3,2.46,5292393

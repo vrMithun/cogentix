@@ -1,0 +1,43 @@
+feature,importance
+num__EngagementScore,2060
+num__BonusPercent,2059
+num__YearsAtCompany,2027
+num__SalaryRolePct,1870
+num__TrainingHoursLastYear,1539
+num__AnnualSalaryINR,1230
+num__Age,1157
+num__SalaryDeptPct,1068
+num__PerformanceRating,335
+cat__Gender_Female,153
+cat__Gender_Male,133
+cat__Location_Clean_Bengaluru,82
+cat__Role_Consultant,80
+cat__Department_R&D,72
+cat__Location_Clean_Hyderabad,71
+cat__Location_Clean_Mumbai,69
+cat__Department_Consulting,63
+cat__Department_IT,57
+cat__Location_Clean_UK,53
+cat__Department_Marketing,52
+cat__Location_Clean_Pune,50
+cat__Location_Clean_Singapore,49
+cat__Role_Senior Analyst,49
+cat__Location_Clean_Delhi,49
+cat__Department_QA,47
+cat__Department_Finance,46
+cat__Department_Sales,45
+cat__Department_Delivery,43
+cat__Location_Clean_Chennai,41
+cat__Role_Engineer,40
+cat__Location_Clean_Kolkata,40
+cat__Role_Senior Consultant,39
+cat__Department_HR,38
+cat__Location_Clean_UAE,32
+cat__Department_Operations,31
+cat__Role_Manager,28
+cat__Role_Tech Lead,24
+cat__Role_Analyst,20
+cat__Role_Senior Manager,20
+cat__Role_Director,18
+cat__Gender_Other,16
+cat__Role_VP,5
